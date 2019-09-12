@@ -1,1 +1,1 @@
-https://ramp4.io/rsschool-cv/cv
+https://ramp4.github.io/rsschool-cv/cv
