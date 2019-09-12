@@ -1,0 +1,9 @@
+body {
+  width: 1024px;
+  margin: auto;
+  border: black 1px solid;
+}
+.section-1,
+.section-2 {
+  display: flex;
+}
