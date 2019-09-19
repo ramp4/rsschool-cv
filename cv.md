@@ -6,7 +6,7 @@ Artem Balunda.
 
 ### Contacts
 
-Phone nubmer: +375259075679, e-mail: rampatv13@gmail.com.
+Phone number: +375259075679, e-mail: rampatv13@gmail.com.
 
 ### Summary
 
@@ -14,7 +14,7 @@ Start a career as a Junior Developer and grow to the next step. Two years of sof
 
 ### Skills
 
-C++, HTML, CSS, JS, Diffirent graphic editors.
+C++, HTML, CSS, JS, Different graphic editors.
 
 ### Code Examples
 
@@ -30,7 +30,7 @@ Link to some of my work:
 - **Work experience**
   - April 2019 - present
     - **Private entrepreneur (direction - payment terminals).**
-  - Oktober 2017 - March 2018
+  - October 2017 - March 2018
     - **PPPPbank Specialist of Lending Division.**
     - **Executable functions:**
     - data analysis, credit rating;
@@ -39,9 +39,9 @@ Link to some of my work:
 
 ### Education
 
-- University: Belarusian State University of Informatics and Radioelectronics
+- University: Belarusian State University of Informatics and Radio electronics
 - Faculty: Computer Design
-- Speciality: Electronic Security Systems
+- Specialty: Electronic Security Systems
 
 ### English Skills
 
