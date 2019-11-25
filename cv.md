@@ -30,8 +30,11 @@ Some of my works:
 - Faculty: Computer Design
 - Specialty: Electronic Security Systems
 
+### Online Courses:
+
 - https://www.codecademy.com/users/ramp4/achievements
-- 
+- https://www.sololearn.com/Certificate/1024-14427877/pdf/
+- https://www.codewars.com/users/ramp4/badges
 
 ### English Skills
 
