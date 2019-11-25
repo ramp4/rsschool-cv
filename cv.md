@@ -2,11 +2,11 @@
 
 ### First Name Last Name
 
-Artem Balunda.
+Artem Balunda
 
 ### Contacts
 
-Phone number: +375259075679, e-mail: rampatv13@gmail.com.
+Phone number: +375259075679, e-mail: rampatv13@gmail.com
 
 ### Summary
 
@@ -14,7 +14,7 @@ Start a career as a Junior Developer and grow to the next step. Year of software
 
 ### Skills
 
-HTML, CSS, JS, Photoshop, Figma.
+HTML, CSS, JS, Photoshop, Figma
 
 ### Code Examples
 My github account:
@@ -38,4 +38,4 @@ Some of my works:
 
 ### English Skills
 
-Upper-Intermediate B2.
+Upper-Intermediate B2
