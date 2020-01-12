@@ -18,13 +18,12 @@ HTML, CSS, JS, Git, Photoshop, Figma
 
 ### Code Examples
 
-[My github account:](https://github.com/ramp4)
+[My github account: https://github.com/ramp4](https://github.com/ramp4)
 
-[RAMP4](https://github.com/ramp4)
 
-[Some of my works:](https://ramp4.github.io/portfolio/)
+[Some of my works: https://awesome-portfolio.netlify.com/](https://ramp4.github.io/portfolio/)
 
-[https://awesome-portfolio.netlify.com/](https://ramp4.github.io/portfolio/)
+
 
 
 ### Education:
