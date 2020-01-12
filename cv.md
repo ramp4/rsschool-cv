@@ -17,11 +17,12 @@ Start a career as a Junior Developer and grow to the next step. Year of software
 HTML, CSS, JS, Git, Photoshop, Figma
 
 ### Code Examples
-My github account:
+
+[My github account:](https://github.com/ramp4)
 [RAMP4](https://github.com/ramp4)
 
-Some of my works: 
-[Portfolio](https://ramp4.github.io/portfolio/)
+[Some of my works:](https://ramp4.github.io/portfolio/)
+[https://awesome-portfolio.netlify.com/](https://ramp4.github.io/portfolio/)
 
 
 ### Education:
@@ -38,4 +39,4 @@ Some of my works:
 
 ### English Skills
 
-Upper-Intermediate B2
+Upper-Intermediate B1
