@@ -21,7 +21,7 @@ HTML, CSS, JS, Git, Photoshop, Figma
 [My github account: https://github.com/ramp4](https://github.com/ramp4)
 
 
-[Some of my works: https://awesome-portfolio.netlify.com/](https://ramp4.github.io/portfolio/)
+[Some of my works: https://awesome-portfolio.netlify.com/](https://awesome-portfolio.netlify.com/)
 
 
 
