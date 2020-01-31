@@ -10,11 +10,11 @@ Phone number: +375259075679, e-mail: rampatv13@gmail.com
 
 ### Summary
 
-Start a career as a Junior Developer and grow to the next step. Year of software development experience as a web developer Javascript/HTML/CSS. I have experience of working in graphic editors like Photoshop and Figma. I have good analytical skills. I'm a fast learner, good team worker. I am currently studying at university. I recently finished "JavaScript/Front-end" Course The Rolling Scopes School(https://rs.school/js/).
+Start a career as a Junior Developer and grow to the next step. Year of software development experience as a web developer. I have experience of working in graphic editors like Photoshop and Figma. I have good analytical skills. I'm a fast learner, good team worker. I am currently studying at university. I recently finished "JavaScript/Front-end" Course The Rolling Scopes School(https://rs.school/js/).
 
 ### Skills
 
-Html, Css, Js, Git, Photoshop, Figma, React, Redux, Sass.
+Javascript, React, Redux, TypeScript, Photoshop, Sass, Css, Html
 
 ### Code Examples
 
