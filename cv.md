@@ -14,7 +14,7 @@ Start a career as a Junior Developer and grow to the next step. Year of software
 
 ### Skills
 
-HTML, CSS, JS, Git, Photoshop, Figma
+Html, Css, Js, Git, Photoshop, Figma, React, Redux, Sass.
 
 ### Code Examples
 
