@@ -14,7 +14,7 @@ Start a career as a Junior Developer and grow to the next step. Year of software
 
 ### Skills
 
-Javascript, React, Redux, TypeScript, Photoshop, Sass, Css, Html
+Javascript, React, Redux, TypeScript, Photoshop, Sass, Css, Html, Sql, Apex.
 
 ### Code Examples
 
@@ -22,8 +22,6 @@ Javascript, React, Redux, TypeScript, Photoshop, Sass, Css, Html
 
 
 [Some of my works: https://awesome-portfolio.netlify.com/](https://awesome-portfolio.netlify.com/)
-
-
 
 
 ### Education:
